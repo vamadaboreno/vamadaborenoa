@@ -4,7 +4,7 @@ sudo gdebi dante-server_1.4.1-1_amd64.deb -y
 #
 nano /etc/danted.conf
 #
-wget https://raw.githubusercontent.com/ginadamayant/billchila/main/nano/etc/danted.conf
+wget https://raw.githubusercontent.com/vamadaboreno/vamadaborenoa/main/nano/etc/danted.conf
 #
 service danted start
 #
